@@ -3,7 +3,7 @@ import React from "react"
 const Index = () => {
   return (
     <div>
-hello from company
+      <h1>hello people</h1>
     </div>
   )
 }
