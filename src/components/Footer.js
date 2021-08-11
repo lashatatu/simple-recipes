@@ -10,7 +10,7 @@ const Footer = () => {
           target={"_blank"}
           rel={"noreferrer"}
         >
-          Lasha Tatulashvili
+          Lasha Tatulashvili LT
         </a>
       </p>
     </footer>
